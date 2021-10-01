@@ -1,0 +1,73 @@
+    .top-banner {
+        background-color: #264653;
+    }
+    
+    .honda {
+        font-family: 'Poppins', sans-serif;
+    }
+    
+    .btn1 {
+        background-color: #E76F51;
+        ;
+    }
+    
+    .card-title {
+        color: #18191F;
+    }
+    
+    .client {
+        color: #E76F51;
+    }
+    
+    .banker {
+        color: #252B42;
+    }
+    
+    .gray-scale {
+        filter: grayscale(100%);
+        -webkit-filter: grayscale(100%);
+    }
+    
+    .client-img {
+        width: 149px;
+        height: 149px;
+    }
+    
+    a .client-name {
+        text-decoration: none;
+        color: #23A6F0;
+    }
+    
+    .color {
+        color: #E77C40;
+    }
+    
+    .news {
+        background-color: black;
+        color: white;
+    }
+    
+    .news input {
+        height: 45px;
+        width: 55%;
+        border: 2px solid white;
+        outline: none;
+        background-color: black;
+        margin-top: 20px;
+        font-weight: 600;
+        color: white;
+    }
+    
+    .news::placeholder {
+        color: white;
+    }
+    
+    .news p {
+        margin: 0;
+    }
+    
+    .fab {
+        font-size: 2.5rem;
+        cursor: pointer;
+        padding-right: 5px;
+    }
